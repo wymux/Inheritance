@@ -1,0 +1,16 @@
+name = "Inheritance"
+author = "Lee Clark"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1f54b2539e457b74e0cdf16186bc877618a71e7cd64549f5c44ba7c712c20961"
+
+[versions]
+fabric = "0.14.23"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20.1"]
