@@ -1,2 +1,3 @@
-objective: doc/objective.ms
-	groff -me -Tpdf doc/objective.me > doc/objective.pdf
+objective: doc/objective.me
+	./bin/date.sh
+	groff -me -mm -Tpdf  -pdfmark doc/objective.me > doc/objective.pdf
