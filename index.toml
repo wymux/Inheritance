@@ -1,0 +1,191 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/animalistic.pw.toml"
+hash = "bbf621a3df3b51e5f9d761cfc085233352f420a27b42011cf047a50e96ed6f98"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "d923b6a71a0c4abe91cac75198a4874f9a3d51535d642512e9358747070380fa"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
+metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
+hash = "7e3bc5c0868815a91d70e80811f8eb25703b87173d80eea53a363039f94bff33"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "1a4894088fc146cbdf2e51066488874de12d8c31882f4eda57357ea60a528513"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "6b2efdfea02bb82d8e1666971b0113940a6363ba93dd92f32b5ae2922e78fef3"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "fdc37493adac1aec5d8332ae94eca9e99838dd152e4f90a1888b4974328469f2"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "6bc53a9b96047b90b175f1875de917ddf7dc5497c628135242af728ecf41ed45"
+metafile = true
+
+[[files]]
+file = "mods/embeddium-plus.pw.toml"
+hash = "22b9346ae6b179c675f7ffece788284d0fe0e690d19fc9d4524bbc3f3b800be9"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5550ba005fda73184df586093d052378c337382f63b08c63bc987b0023192903"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "f0f4639e92802351443ff57c4f71c6ee67b879e088c61280cf39674d22bc4597"
+metafile = true
+
+[[files]]
+file = "mods/fancy-chests.pw.toml"
+hash = "def70e755a7a21874c4be68686d23eea6f57e55591859bff0b42883b0e02ffbd"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "b4fc21a94115c0044b9c7bf79b5b5eddef5034361039a1cbc1af4afc47662f46"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "d8d10f6e3901ced172a93d116e775036ecfb501e6933345897d6d8fd00b1ad3c"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "4f2d8288becd1ebbbb494c487daa9682db64dbc82be04ea0369126e37510c17b"
+metafile = true
+
+[[files]]
+file = "mods/heracles.pw.toml"
+hash = "5792fc6e010ad73cea3be39951dd59de95872bb47a2aa0869182620693fc4ea1"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "64cbb60040f19d086bda88ea73463aa98f16cd6ac3cc800d576064e906e11947"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "826c59a1e607641acb85f1e23a2bb7183a2f0a9ccd19ea4f01bbc9d94d480acf"
+metafile = true
+
+[[files]]
+file = "mods/lockyz-extra-dimensions-mod.pw.toml"
+hash = "60b90de4e2281166988ba5225c070bc118c4512d7f04b3be0fe375f80eb8939a"
+metafile = true
+
+[[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "f221e891a23945b613d8344783737ca6a420c599f82204c31d0aaebb7e2e45b1"
+metafile = true
+
+[[files]]
+file = "mods/metabolism.pw.toml"
+hash = "c43592e677f2c9797d0e510c16ca8aef9f258255332f031411856333552b775d"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "df9fd55ef5e64e5559227692ed3bf063996a3c407e2c6a2d677b5cc4c35c7c3c"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "2a8e4c7488ddd420fc432717b9f4e76cb4cfbf8f02f351c6cd8f0390dde778ad"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "7cb8fd3d40eddee4b2d5c44ccb089739e8a6ef9becef5f498a05a7ac8bba76f3"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "31ae55a04e6bf3dd073be426cfd687505ebf9ab691d806d580e9a3305fc8a9ce"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "1e4d5c14c4d87c48cae80fd6ce003ad1db70037ea810830504cf0c939ced05b4"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "a8195e39831da3b5532265589c9e9b5011208bdfa1a8c0e298910463505c3bfa"
+metafile = true
+
+[[files]]
+file = "mods/redirectionor.pw.toml"
+hash = "f4bfe8f04847a5b590e59baaf47281273c2f0e54e0e99330eb38e91cfdc98fb4"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "54980224a747a23832727baac223d407fd22f1a42d7fd50345429b3e13ef5252"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "aed90a19329f182dd5d01d0e5d9bfc1eec7fdd87d1e38bedde839b4beef821b6"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "63dc9da73f7b641a7f355ff2b1e3dacf6b16a4ece302759b1b27c79ce2f1ae2c"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "019c0deacbb93409af392fa6bbf7f89737ad1d48cb9c22a0ed268e4d719f91ba"
+metafile = true
+
+[[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "69c5e061e909cd434f23d2212ea6db6ab9d1cb7dbf3238948e1f871c3430f947"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-castle.pw.toml"
+hash = "93b1ca1569798d90a02b411f5287ae3cc6fdf0d36e152d05618ce349d00e5fc5"
+metafile = true
+
+[[files]]
+file = "mods/tough-beginnings.pw.toml"
+hash = "471b860fe0b0d4dabbc0ce46f91b78a6dd64969ee4b0891a015664580239146a"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "ed3b5e994d242909157f87fa3a0479d420b1c69b269cc70d9f907a1542acbb67"
+metafile = true
