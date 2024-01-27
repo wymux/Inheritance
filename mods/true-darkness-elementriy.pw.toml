@@ -1,0 +1,13 @@
+name = "True Darkness Elementriy"
+filename = "TrueDarkness-1.20.1_2.0.4_ExploringUpdate.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3cf2d024692cad3fad04e4eed22b1753f7f4a5f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5047155
+project-id = 776197

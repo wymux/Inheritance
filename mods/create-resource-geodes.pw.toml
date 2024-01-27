@@ -1,0 +1,13 @@
+name = "Create: Resource Geodes"
+filename = "createresourcegeodes-forge-1.20.1-0.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc1954c9efc9f36c8e10d030fa563c2a993e0f47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5046159
+project-id = 952886

@@ -1,0 +1,13 @@
+name = "Labelling Containers"
+filename = "labellingcontainers-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b415a9ff7e01ea741a35c498b37629ad8c9ebb0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5059777
+project-id = 844270
