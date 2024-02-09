@@ -9,6 +9,10 @@ file = "Makefile"
 hash = "10b0390168fa941158c1ae58fd0ea9130c015e4d577721cf6abbc48562501f8b"
 
 [[files]]
+file = "README.md"
+hash = "7cbb8d2c5c6e84f5552ceb2453c17bc0ecdaa57040f37d4fa4edfd697d71e00c"
+
+[[files]]
 file = "config/heracles/groups.txt"
 hash = "263449f0859dad7602b8ef2bc3f4e8470bafd2b72ba594890b9bc33c64cb0fa0"
 
@@ -39,11 +43,6 @@ hash = "54bdfa4c222d0e48d4c802d45e5ee5bb77f188a1df80ee5145eb08dd4924966c"
 [[files]]
 file = "config/heracles/tutorial.html"
 hash = "3ee4fc4dea2619980a842af8e3b992a25d5aa0e3405c693d4d5def280928fa03"
-
-[[files]]
-file = "minecraft-nameless.pw.toml"
-hash = "95dcbac4ad1ff27923878b6b441c09bbec0170f22b123562367800fc9919cefa"
-metafile = true
 
 [[files]]
 file = "mods/adorn-for-forge.pw.toml"
@@ -654,3 +653,7 @@ metafile = true
 file = "mods/visible-offhand.pw.toml"
 hash = "d4282275f74a2c06ea81f876a1cb47e6b4927e8ca16e82e726b5978e34475e1a"
 metafile = true
+
+[[files]]
+file = "server.properties"
+hash = "f79d552ffbc5a783f0b40990dbf24a20fe56c2e5a6e6445b5c1e174d5df3a7d5"
