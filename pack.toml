@@ -1,12 +1,12 @@
 name = "Inheritance"
 author = "Lee Clark"
-version = "1.0.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "121f03bfbfa00b98d57bf3f55ea61017280dfbe8477d78d647404dc39bddd6a5"
+hash = "3e4c3fee98196541254fa2acf21beb8f3dbe8379eed4c2d43e23d217a9c69cee"
 
 [versions]
 forge = "47.2.20"
