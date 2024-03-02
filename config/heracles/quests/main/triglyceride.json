@@ -1,0 +1,73 @@
+{
+  "dependencies": [
+    "sucrose"
+  ],
+  "tasks": {
+    "triglyceride": {
+      "type": "heracles:item",
+      "item": "chemlib:triglyceride",
+      "amount": 4,
+      "collection": "AUTOMATIC",
+      "title": "Triglyceride",
+      "icon": {
+        "item": {
+          "id": "chemlib:triglyceride",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "Bread": {
+      "title": "Bread",
+      "icon": {
+        "item": {
+          "id": "minecraft:bread",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:bread",
+        "count": 16
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Sugar is great and all, but you need more than if you want to survive very long,",
+      "Break down sucrose combine the elements back again with your shiny new Chemical Combiner to form triglycerides."
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          -28,
+          -168
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "chemlib:triglyceride",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "triglyceride"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

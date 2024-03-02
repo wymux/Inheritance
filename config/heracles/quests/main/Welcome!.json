@@ -1,0 +1,146 @@
+{
+  "dependencies": [
+    "sucrose"
+  ],
+  "tasks": {
+    "2": {
+      "type": "heracles:item",
+      "item": "minecraft:white_concrete",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Collect Concrete",
+      "icon": {
+        "item": {
+          "id": "minecraft:white_concrete",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {
+    "a": {
+      "title": "Dissolver",
+      "icon": {
+        "item": {
+          "id": "alchemistry:dissolver",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "alchemistry:dissolver",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "sand": {
+      "title": "Sand",
+      "icon": {
+        "item": {
+          "id": "minecraft:sand",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:sand",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "1": {
+      "title": "Guide Book",
+      "icon": {
+        "item": {
+          "id": "patchouli:guide_book",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "patchouli:guide_book",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "2": {
+      "title": "",
+      "icon": {
+        "item": {
+          "id": "minecraft:air",
+          "count": 0
+        },
+        "type": "heracles:item"
+      },
+      "command": "tellraw @s \"Hello World!\"",
+      "type": "heracles:command"
+    },
+    "ai": {
+      "title": "Sugar Cane",
+      "icon": {
+        "item": {
+          "id": "minecraft:sugar_cane",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:sugar_cane",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "air": {
+      "title": "Water Source",
+      "icon": {
+        "item": {
+          "id": "minecraft:water_bucket",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:water_bucket",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Welcome to Inheritance. ",
+      "You are safe here, but this is no place to spend the rest of eternity,",
+      "It's time to find your way out."
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          -264,
+          -168
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:air",
+        "count": 0
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "Welcome!"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}
