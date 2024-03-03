@@ -1,17 +1,18 @@
 {
   "dependencies": [
-    "sucrose"
+    "a-four",
+    "VI"
   ],
   "tasks": {
-    "triglyceride": {
+    "I": {
       "type": "heracles:item",
-      "item": "chemlib:triglyceride",
-      "amount": 4,
+      "item": "chemlib:cellulose",
+      "amount": 16,
       "collection": "AUTOMATIC",
-      "title": "Triglyceride",
+      "title": "Cellulose",
       "icon": {
         "item": {
-          "id": "chemlib:triglyceride",
+          "id": "chemlib:cellulose",
           "count": 1
         },
         "type": "heracles:item"
@@ -19,18 +20,18 @@
     }
   },
   "rewards": {
-    "Bread": {
-      "title": "Bread",
+    "I": {
+      "title": "Golden Apple",
       "icon": {
         "item": {
-          "id": "minecraft:bread",
+          "id": "minecraft:golden_apple",
           "count": 1
         },
         "type": "heracles:item"
       },
       "item": {
-        "id": "minecraft:bread",
-        "count": 16
+        "id": "minecraft:golden_apple",
+        "count": 2
       },
       "type": "heracles:item"
     }
@@ -40,27 +41,26 @@
       "text": ""
     },
     "description": [
-      "Sugar is great and all, but you need more than if you want to survive very long,",
-      "Break down sucrose combine the elements back again with your shiny new Chemical Combiner to form triglycerides."
+      "Your flimsy crops are great and all, but you'll nedd something more sturdy if you want to accomplsh anything."
     ],
     "groups": {
       "Main": {
         "position": [
-          -28,
-          -168
+          205,
+          -167
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "chemlib:triglyceride",
+        "id": "chemlib:cellulose",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Triglyceride"
+      "translate": "Planty Matter"
     }
   },
   "settings": {

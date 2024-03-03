@@ -1,66 +1,64 @@
 {
   "dependencies": [
-    "sucrose"
+    "VIII"
   ],
   "tasks": {
-    "triglyceride": {
+    "II": {
       "type": "heracles:item",
-      "item": "chemlib:triglyceride",
-      "amount": 4,
+      "item": "minecraft:light_gray_concrete",
+      "amount": 64,
       "collection": "AUTOMATIC",
-      "title": "Triglyceride",
+      "title": "Light Gray Antimatter",
       "icon": {
         "item": {
-          "id": "chemlib:triglyceride",
+          "id": "minecraft:light_gray_concrete",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    },
+    "I": {
+      "type": "heracles:item",
+      "item": "minecraft:white_concrete",
+      "amount": 64,
+      "collection": "AUTOMATIC",
+      "title": "White Antimatter",
+      "icon": {
+        "item": {
+          "id": "minecraft:white_concrete",
           "count": 1
         },
         "type": "heracles:item"
       }
     }
   },
-  "rewards": {
-    "Bread": {
-      "title": "Bread",
-      "icon": {
-        "item": {
-          "id": "minecraft:bread",
-          "count": 1
-        },
-        "type": "heracles:item"
-      },
-      "item": {
-        "id": "minecraft:bread",
-        "count": 16
-      },
-      "type": "heracles:item"
-    }
-  },
+  "rewards": {},
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Mine a stack of white and light gray antimatter."
     },
     "description": [
-      "Sugar is great and all, but you need more than if you want to survive very long,",
-      "Break down sucrose combine the elements back again with your shiny new Chemical Combiner to form triglycerides."
+      "Surely this strange material must be made of something, right?",
+      "If you gather enough you can then try dissolving it to see if anything useful results from it."
     ],
     "groups": {
       "Main": {
         "position": [
-          -28,
-          -168
+          619,
+          -185
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "chemlib:triglyceride",
+        "id": "minecraft:light_gray_concrete",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Triglyceride"
+      "translate": "Gathering Antimatter"
     }
   },
   "settings": {

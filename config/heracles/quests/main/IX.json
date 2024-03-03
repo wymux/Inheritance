@@ -1,15 +1,17 @@
 {
-  "dependencies": [],
+  "dependencies": [
+    "VIII"
+  ],
   "tasks": {
-    "sucrose": {
+    "I": {
       "type": "heracles:item",
-      "item": "chemlib:sucrose",
-      "amount": 64,
+      "item": "storagedrawers:oak_full_drawers_4",
+      "amount": 4,
       "collection": "AUTOMATIC",
-      "title": "Sucrose",
+      "title": "Basic Drawer 2x2",
       "icon": {
         "item": {
-          "id": "chemlib:sucrose",
+          "id": "storagedrawers:oak_full_drawers_4",
           "count": 1
         },
         "type": "heracles:item"
@@ -17,62 +19,74 @@
     }
   },
   "rewards": {
-    "combiner": {
-      "title": "Combiner",
+    "II": {
+      "title": "Periodic Table",
       "icon": {
         "item": {
-          "id": "alchemistry:combiner",
+          "id": "chemlib:periodic_table",
           "count": 1
         },
         "type": "heracles:item"
       },
       "item": {
-        "id": "alchemistry:combiner",
+        "id": "chemlib:periodic_table",
         "count": 1
       },
       "type": "heracles:item"
     },
-    "fluxduct": {
-      "title": "Fluxduct",
+    "I": {
+      "title": "Drawer Controller",
       "icon": {
         "item": {
-          "id": "thermal:energy_duct",
+          "id": "storagedrawers:controller",
           "count": 1
         },
         "type": "heracles:item"
       },
       "item": {
-        "id": "thermal:energy_duct",
-        "count": 32
+        "id": "storagedrawers:controller",
+        "count": 1
       },
       "type": "heracles:item"
     }
   },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Craft 4 basic 2x2 drawers"
     },
     "description": [
-      "Since you have been awarded a chemistry set, you should see what potential it has."
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Your limited storage will soon be overflowing with new chemicals. ",
+      "You need to find a better solution to store it all."
     ],
     "groups": {
       "Main": {
         "position": [
-          -150,
-          -168
+          456,
+          -69
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "chemlib:sucrose",
+        "id": "storagedrawers:oak_full_drawers_4",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Sucrose"
+      "translate": "Chemistry Cabinet"
     }
   },
   "settings": {

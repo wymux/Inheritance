@@ -1,0 +1,56 @@
+{
+  "dependencies": [
+    "48x Iron"
+  ],
+  "tasks": {
+    "I": {
+      "type": "heracles:item",
+      "item": "minecraft:bucket",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Bucket",
+      "icon": {
+        "item": {
+          "id": "minecraft:bucket",
+          "count": 1
+        },
+        "type": "heracles:item"
+      }
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Craft a bucket"
+    },
+    "description": [
+      "Craft a bucket"
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          792,
+          -59
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:bucket",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Bukkit"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

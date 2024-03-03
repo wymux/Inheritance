@@ -1,17 +1,17 @@
 {
   "dependencies": [
-    "sucrose"
+    "Essence of Stone"
   ],
   "tasks": {
-    "triglyceride": {
+    "I": {
       "type": "heracles:item",
-      "item": "chemlib:triglyceride",
-      "amount": 4,
+      "item": "minecraft:cobblestone",
+      "amount": 64,
       "collection": "AUTOMATIC",
-      "title": "Triglyceride",
+      "title": "Cobblestone",
       "icon": {
         "item": {
-          "id": "chemlib:triglyceride",
+          "id": "minecraft:cobblestone",
           "count": 1
         },
         "type": "heracles:item"
@@ -19,48 +19,62 @@
     }
   },
   "rewards": {
-    "Bread": {
-      "title": "Bread",
+    "II": {
+      "title": "Hopper",
       "icon": {
         "item": {
-          "id": "minecraft:bread",
+          "id": "minecraft:hopper",
           "count": 1
         },
         "type": "heracles:item"
       },
       "item": {
-        "id": "minecraft:bread",
-        "count": 16
+        "id": "minecraft:hopper",
+        "count": 2
+      },
+      "type": "heracles:item"
+    },
+    "I": {
+      "title": "Cobblestone",
+      "icon": {
+        "item": {
+          "id": "minecraft:cobblestone",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:cobblestone",
+        "count": 32
       },
       "type": "heracles:item"
     }
   },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Create 64 cobblestone"
     },
     "description": [
-      "Sugar is great and all, but you need more than if you want to survive very long,",
-      "Break down sucrose combine the elements back again with your shiny new Chemical Combiner to form triglycerides."
+      "Create 64 cobblestone"
     ],
     "groups": {
       "Main": {
         "position": [
-          -28,
-          -168
+          921,
+          -181
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "chemlib:triglyceride",
+        "id": "minecraft:cobblestone",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Triglyceride"
+      "translate": "Uh, Stone"
     }
   },
   "settings": {

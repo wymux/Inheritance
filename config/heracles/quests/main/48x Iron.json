@@ -1,17 +1,17 @@
 {
   "dependencies": [
-    "sucrose"
+    "Gathering Antimatter"
   ],
   "tasks": {
-    "triglyceride": {
+    "I": {
       "type": "heracles:item",
-      "item": "chemlib:triglyceride",
-      "amount": 4,
+      "item": "chemlib:iron",
+      "amount": 48,
       "collection": "AUTOMATIC",
-      "title": "Triglyceride",
+      "title": "Iron Moles",
       "icon": {
         "item": {
-          "id": "chemlib:triglyceride",
+          "id": "chemlib:iron",
           "count": 1
         },
         "type": "heracles:item"
@@ -19,48 +19,54 @@
     }
   },
   "rewards": {
-    "Bread": {
-      "title": "Bread",
+    "I": {
+      "title": "Iron Pickaxe",
       "icon": {
         "item": {
-          "id": "minecraft:bread",
-          "count": 1
+          "id": "minecraft:iron_pickaxe",
+          "count": 1,
+          "nbt": {
+            "Damage": 0
+          }
         },
         "type": "heracles:item"
       },
       "item": {
-        "id": "minecraft:bread",
-        "count": 16
+        "id": "minecraft:iron_pickaxe",
+        "count": 2,
+        "nbt": {
+          "Damage": 0
+        }
       },
       "type": "heracles:item"
     }
   },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Collect 48 iron moles"
     },
     "description": [
-      "Sugar is great and all, but you need more than if you want to survive very long,",
-      "Break down sucrose combine the elements back again with your shiny new Chemical Combiner to form triglycerides."
+      "Break down light grayy antimatter in the Chemical Dissolver to acquire your first iron.",
+      "You can increase your yield by crafting dark gray antimatter."
     ],
     "groups": {
       "Main": {
         "position": [
-          -28,
-          -168
+          619,
+          -61
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "chemlib:triglyceride",
+        "id": "chemlib:iron",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Triglyceride"
+      "translate": "48x Iron"
     }
   },
   "settings": {

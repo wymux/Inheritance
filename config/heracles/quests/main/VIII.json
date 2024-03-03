@@ -1,0 +1,43 @@
+{
+  "dependencies": [
+    "VI",
+    "V",
+    "VII"
+  ],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Craft a crafting table"
+    },
+    "description": [
+      "Craft a crafting table"
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          455,
+          -180
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:crafting_table",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Finally a crafting table"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}

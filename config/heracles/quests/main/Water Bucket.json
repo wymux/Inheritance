@@ -1,17 +1,17 @@
 {
   "dependencies": [
-    "sucrose"
+    "Bukkit"
   ],
   "tasks": {
-    "triglyceride": {
+    "I": {
       "type": "heracles:item",
-      "item": "chemlib:triglyceride",
-      "amount": 4,
+      "item": "minecraft:water_bucket",
+      "amount": 1,
       "collection": "AUTOMATIC",
-      "title": "Triglyceride",
+      "title": "Water Bucket",
       "icon": {
         "item": {
-          "id": "chemlib:triglyceride",
+          "id": "minecraft:water_bucket",
           "count": 1
         },
         "type": "heracles:item"
@@ -19,17 +19,17 @@
     }
   },
   "rewards": {
-    "Bread": {
-      "title": "Bread",
+    "I": {
+      "title": "Grass",
       "icon": {
         "item": {
-          "id": "minecraft:bread",
+          "id": "minecraft:grass_block",
           "count": 1
         },
         "type": "heracles:item"
       },
       "item": {
-        "id": "minecraft:bread",
+        "id": "minecraft:grass_block",
         "count": 16
       },
       "type": "heracles:item"
@@ -40,27 +40,26 @@
       "text": ""
     },
     "description": [
-      "Sugar is great and all, but you need more than if you want to survive very long,",
-      "Break down sucrose combine the elements back again with your shiny new Chemical Combiner to form triglycerides."
+      "Craft a water bucket in the Chemical Combiner"
     ],
     "groups": {
       "Main": {
         "position": [
-          -28,
-          -168
+          941,
+          -53
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "chemlib:triglyceride",
+        "id": "minecraft:water_bucket",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Triglyceride"
+      "translate": "Water Bucket"
     }
   },
   "settings": {

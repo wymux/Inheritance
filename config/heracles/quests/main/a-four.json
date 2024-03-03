@@ -1,17 +1,17 @@
 {
   "dependencies": [
-    "sucrose"
+    "triglyceride"
   ],
   "tasks": {
-    "triglyceride": {
+    "I": {
       "type": "heracles:item",
-      "item": "chemlib:triglyceride",
+      "item": "minecraft:wheat_seeds",
       "amount": 4,
       "collection": "AUTOMATIC",
-      "title": "Triglyceride",
+      "title": "Wheat Seedsi",
       "icon": {
         "item": {
-          "id": "chemlib:triglyceride",
+          "id": "minecraft:wheat_seeds",
           "count": 1
         },
         "type": "heracles:item"
@@ -19,17 +19,38 @@
     }
   },
   "rewards": {
-    "Bread": {
-      "title": "Bread",
+    "II": {
+      "title": "Wooden Hoe",
       "icon": {
         "item": {
-          "id": "minecraft:bread",
+          "id": "minecraft:wooden_hoe",
+          "count": 1,
+          "nbt": {
+            "Damage": 0
+          }
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:wooden_hoe",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "I": {
+      "title": "Dirt",
+      "icon": {
+        "item": {
+          "id": "minecraft:dirt",
           "count": 1
         },
         "type": "heracles:item"
       },
       "item": {
-        "id": "minecraft:bread",
+        "id": "minecraft:dirt",
         "count": 16
       },
       "type": "heracles:item"
@@ -40,27 +61,26 @@
       "text": ""
     },
     "description": [
-      "Sugar is great and all, but you need more than if you want to survive very long,",
-      "Break down sucrose combine the elements back again with your shiny new Chemical Combiner to form triglycerides."
+      "..and now you can make wheat seeds with those traglycerides combined with some sucrose."
     ],
     "groups": {
       "Main": {
         "position": [
-          -28,
-          -168
+          78,
+          -170
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "chemlib:triglyceride",
+        "id": "minecraft:wheat_seeds",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Triglyceride"
+      "translate": "Diversified Crops"
     }
   },
   "settings": {

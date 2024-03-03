@@ -1,17 +1,17 @@
 {
   "dependencies": [
-    "sucrose"
+    "Gathering Antimatter"
   ],
   "tasks": {
-    "triglyceride": {
+    "I": {
       "type": "heracles:item",
-      "item": "chemlib:triglyceride",
-      "amount": 4,
+      "item": "chemlib:silicon_dioxide",
+      "amount": 64,
       "collection": "AUTOMATIC",
-      "title": "Triglyceride",
+      "title": "Silicon Dioxide",
       "icon": {
         "item": {
-          "id": "chemlib:triglyceride",
+          "id": "chemlib:silicon_dioxide",
           "count": 1
         },
         "type": "heracles:item"
@@ -19,48 +19,47 @@
     }
   },
   "rewards": {
-    "Bread": {
-      "title": "Bread",
+    "I": {
+      "title": "Chest",
       "icon": {
         "item": {
-          "id": "minecraft:bread",
+          "id": "minecraft:chest",
           "count": 1
         },
         "type": "heracles:item"
       },
       "item": {
-        "id": "minecraft:bread",
-        "count": 16
+        "id": "minecraft:chest",
+        "count": 1
       },
       "type": "heracles:item"
     }
   },
   "display": {
     "subtitle": {
-      "text": ""
+      "translate": "Gather a stack of silicon dioxide moles"
     },
     "description": [
-      "Sugar is great and all, but you need more than if you want to survive very long,",
-      "Break down sucrose combine the elements back again with your shiny new Chemical Combiner to form triglycerides."
+      "Gather a stack of silicon dioxide moles"
     ],
     "groups": {
       "Main": {
         "position": [
-          -28,
-          -168
+          777,
+          -185
         ]
       }
     },
     "icon": {
       "item": {
-        "id": "chemlib:triglyceride",
+        "id": "chemlib:silicon_dioxide",
         "count": 1
       },
       "type": "heracles:item"
     },
     "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
     "title": {
-      "translate": "Triglyceride"
+      "translate": "Essence of Stone"
     }
   },
   "settings": {

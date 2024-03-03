@@ -1,0 +1,58 @@
+{
+  "dependencies": [
+    "V",
+    "IV"
+  ],
+  "tasks": {},
+  "rewards": {
+    "I": {
+      "title": "Golden Apple",
+      "icon": {
+        "item": {
+          "id": "minecraft:golden_apple",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:golden_apple",
+        "count": 2
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Make 8 apples"
+    },
+    "description": [
+      "A little diversity in your food sources would do you well."
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          326,
+          -201
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:apple",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "A Delicacy"
+    }
+  },
+  "settings": {
+    "unlockNotification": false,
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "individual_progress": false,
+    "hidden": "LOCKED"
+  }
+}
